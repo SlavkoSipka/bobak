@@ -1,8 +1,8 @@
 import { GoogleSpreadsheet } from 'google-spreadsheet';
 
 const SPREADSHEET_ID = '1njuK0qbrdrXJRBRLYoeBCUSknRYqDW6y1q-6Nz1ntPU';
-const SHEET_ID = '1997722958'; // ID Tea Tairovic sheet-a (gid=1997722958)
-const SHEET_TITLE = 'Tea Tairovic'; // Naziv lista
+const SHEET_ID = '1431850372'; // ID Barbara Bobak sheet-a (gid=1431850372)
+const SHEET_TITLE = 'Barbara Bobak'; // Naziv lista
 const CACHE_DURATION = 5000; // Bilo je 30000
 
 let doc: GoogleSpreadsheet | null = null;
